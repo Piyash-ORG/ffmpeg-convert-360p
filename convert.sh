@@ -1,10 +1,3 @@
----
-
-# ২. 360p রেজুলেশন
-
-### `convert.sh`
-
-```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
 mkdir -p /sdcard/Movies/HighS_360p
